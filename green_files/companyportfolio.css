@@ -1,0 +1,607 @@
+.green {
+    color: green;
+}
+
+header {
+    background-color: black;
+    color: white;
+    height: 50px;
+}
+
+header ul li {
+    display: inline;
+    list-style: none;
+    cursor: pointer;
+}
+
+header ul {
+    margin-left: -25px;
+}
+
+.i {
+    width: 30px;
+    height: 30px;
+    background-color: #191919;
+    color: white;
+    border-color: gray;
+    padding: 7px;
+    margin: 10px 0px 0px 5px;
+    text-align: center;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.liright {
+    float: right;
+    margin: 10px 0px 0px 0px;
+    cursor: pointer;
+}
+
+.ir {
+    font-size: 30px;
+    width: 30px;
+    height: 30px;
+    color: green;
+    padding: 7px;
+    text-align: center;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.phone {
+    font-size: 30px;
+    color: #8dc63f;
+    margin: 0px 3px 0px 10px;
+}
+
+.liright button {
+    margin: 0px 5px 0px 8px;
+    background-color: #a2d84c;
+    border: 1px solid #a2d84c;
+    font-size: 12px;
+    border-radius: 5px;
+}
+
+nav {
+    margin: 10px 0px 0px 0px;
+}
+
+nav ul li {
+    display: inline;
+    list-style: none;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.navul {
+    float: right;
+    margin: 20px 15px 0px 15px;
+}
+
+#whyus {
+	width: 100%;
+    height: 395px;
+    margin: -400px 0px 0px 0px;
+}
+
+.whyusbarright {
+    width: 10%;
+    height: 75px;
+    background-color: #a2d84c;
+    float: right;
+    margin: 0px -15px 0px 0px;
+}
+
+.whyusbarleft {
+    width: 10%;
+    height: 75px;
+    background-color: #a2d84c;
+    float: left;
+    margin: 0px 0px 0px -15px;
+}
+
+#whyus h1 {
+    float: right;
+    color: white;
+    font-size: 80px;
+    margin: -15px 15px 0px 0px;
+}
+
+.whyustext {
+    width: 60%;
+    font-size: 22px;
+    color: white;
+    float: right;
+    text-align: center;
+    /* background-color: green; */
+    margin: 35px 20% 0px 0%;
+}
+
+#whyus button {
+    width: 16%;
+    height: 50px;
+    font-size: 20px;
+    background-color: #ffbd1a;
+    border: 1px solid #ffbd1a;
+    border-radius: 5px;
+    float: right;
+    box-shadow: 0px 3px #ff831d;
+    margin: 50px 42% 0px 0px;
+}
+
+#about {
+    background-color: white;
+    height: 575px;
+}
+
+#about h1 {
+    margin: 50px 0px 0px 0px;
+    font-size: 75px;
+    text-align: center;
+}
+
+#about p {
+    text-align: center;
+    width: 40%;
+    height: 13%;
+    color: #bcbec0;
+    margin: 0px 5% 0px 30%;
+}
+
+.about {
+    margin: 5% 0px 0px 0px;
+    float: right;
+    text-align: center;
+    margin: 0px 2.5% 0px 0px;
+}
+
+.about h6 {
+    margin: 20px 0px 20px 0px;
+    font-size: 20px;
+}
+
+.about span {
+    margin: 50px 0px 0px 0px;
+    font-size: 15px;
+    color: #bcbec0;
+}
+
+#aboutus {
+    margin: -500px 0px 0px 0px;
+}
+
+#aboutus h1 {
+    margin: 50px 0px 0px 0px;
+    font-size: 45px;
+    text-align: center;
+}
+
+#aboutus img {
+    margin: -36px 7.5% 0px 0px;
+    float: right;
+}
+
+#aboutus p {
+    width: 40%;
+    font-size: 14px;
+    margin: 20px 0px 0px 3%;
+}
+
+#aboutus button {
+    width: 16%;
+    height: 50px;
+    font-size: 20px;
+    background-color: #ffbd1a;
+    border: 1px solid #ffbd1a;
+    border-radius: 5px;
+    box-shadow: 0px 3px #ff831d;
+    margin: 25px 0% 0px 5%;
+}
+
+#services {
+    background-color: white;
+    height: 450px;
+}
+
+#services h1 {
+    margin: 80px 0px 0px 0px;
+    font-size: 40px;
+    text-align: center;
+}
+
+#services p {
+    text-align: center;
+    width: 50%;
+    height: 13%;
+    color: #bcbec0;
+    margin: 20px 5% 0px 25%;
+}
+
+.services {
+    float: right;
+    margin: 25px 0% 0px 0px;
+}
+
+.servicesh {
+    float: right;
+    text-align: center;
+    margin: -170px 0% 0px 0%;
+}
+
+.servicesh0 {
+    float: right;
+    text-align: center;
+    margin: -170px 25% 0px 0%;
+}
+
+.servicesh1 {
+    float: right;
+    text-align: center;
+    margin: -170px 50% 0px 0%;
+}
+
+.servicesh2 {
+    float: right;
+    text-align: center;
+    margin: -170px 75% 0px 0%;
+}
+
+.servicesp {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    float: right;
+    font-size: 15px;
+    margin: -150px 0% 0px 0%;
+}
+
+.servicesp0 {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    float: right;
+    font-size: 15px;
+    margin: -150px 25% 0px 0%;
+}
+
+.servicesp1 {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    float: right;
+    font-size: 15px;
+    margin: -150px 50% 0px 0%;
+}
+
+.servicesp2 {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    float: right;
+    font-size: 15px;
+    margin: -150px 75% 0px 0%;
+}
+
+.servicesp a, .servicesp0 a, .servicesp1 a, .servicesp2 a {
+    color: #8dc63f;
+}
+
+#portfolio {
+    margin: -710px 0px 0px 0px;
+
+}
+
+#portfolio h1 {
+    margin: 0px 0px 0px 0px;
+    font-size: 40px;
+    text-align: center;
+    color: white;
+}
+
+.portfoliop {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    width: 40%;
+    height: 13%;
+    font-size: 15px;
+    color: #bcbec0;
+    margin: 10px 5% 0px 30%;
+}
+
+#portfolio span {
+    color: white;
+    text-align: center;
+}
+
+.portfoliospan {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    margin: 2% 0px 0px 25%;
+
+}
+
+#process {
+    height: 450px;
+    margin: 580px 0px 0px 0px;
+}
+
+#process h1 {
+    margin: 80px 0px 0px 0px;
+    font-size: 40px;
+    text-align: center;
+}
+
+#process p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    width: 40%;
+    height: 13%;
+    font-size: 15px;
+    color: #bcbec0;
+    margin: 10px 5% 0px 30%;
+}
+
+#process img {
+    margin: 20px 0px 0px 0%;
+}
+
+.processspan {
+    margin: 20px 0px 0px 0px;
+    float: right;
+    text-align: center;
+}
+
+.processspan p {
+    margin: 20px 0px 0px 0px;
+    text-align: center;
+    font-size: 15px;
+}
+
+#reviews {
+    background-color: #f1f2f2;
+    width: 100%;
+    height: 500px;
+    padding: 25px;
+}
+
+#reviews h1 {
+    margin: 0px 0px 0px 0px;
+    font-size: 40px;
+    text-align: center;
+}
+
+#reviews p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    width: 40%;
+    height: 13%;
+    font-size: 15px;
+    color: #bcbec0;
+    margin: 25px 5% 0px 30%;
+}
+
+#skills {
+    background-color: white;
+    padding: 25px;
+    height: 500px;
+}
+
+#skills h1 {
+    margin: 0px 0px 0px 0px;
+    font-size: 40px;
+    text-align: center;
+}
+
+#skills p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    width: 40%;
+    height: 13%;
+    font-size: 15px;
+    color: #bcbec0;
+    margin: 25px 5% 0px 30%;
+}
+
+.skillsspan {
+    margin: 30px 0px 0px 0px;
+    float: right;
+    text-align: center;
+}
+
+#project {
+    background-color: #8dc63f;
+    height: 300px;
+    padding: 30px;
+}
+
+#project h1 {
+    font-size: 75px;
+    color: white;
+    text-align: center;
+}
+
+#project form {
+    width: 80%;
+    margin: 25px 0px 0px 20%;
+}
+
+.projectforminput {
+    width: 20%;
+    padding: 5px 0px 0px 25px;
+    border-radius: 5px;
+    margin: 25px 0px 0px 0%;
+}
+
+.projectformbutton {
+    width: 20%;
+    height: 35px;
+    background-color: #ffbd1a;
+    border: thin solid #ffbd1a;
+    box-shadow: 2px 2px #ff831d;
+    border-radius: 5px;
+    margin: 0px 0px 0px 1%;
+}
+
+#project p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    width: 50%;
+    height: 13%;
+    color: white;
+    margin: 25px 5% 0px 25%;
+}
+
+#contact {
+    margin: 25px 0px 0px 0px;
+}
+
+#contact h1 {
+    margin: 0px 0px 0px 0px;
+    font-size: 40px;
+    text-align: center;
+}
+
+#contact p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    width: 50%;
+    height: 13%;
+    font-size: 15px;
+    color: #bcbec0;
+    margin: 15px 5% 0px 25%;
+}
+
+.contactloc {
+    width: 80%;
+    margin: 20px 0px 0px 10%;
+}
+
+.contacti {
+    color: #668e19;
+    font-size: 25px;
+}
+
+.contactspan {
+    color: black;
+    font-size: 23px;
+}
+
+#contact ul {
+    margin: -15px 0px 0px 9%;
+}
+
+#contact ul li {
+    color: #668e19;
+    font-size: 25px;
+    list-style: none;
+    display: inline;
+    text-align: center;
+    margin: 0px 0px 0px 5%;
+}
+
+#contact ul li span {
+    color: black;
+}
+
+#contact img {
+    margin: 25px 0px 0px 0px;
+}
+
+#contactus {
+    height: 400px;
+    background-color: #668e19; 
+}
+
+.contactus {
+    height: 400px;
+    /* background-color: #ff831d; */
+    float: right;
+}
+
+.contactus img {
+    margin: 50px 0px 0px 0px;
+}
+
+.contactus p {
+    font-size: 10px;
+    color: white;
+    margin: 15px 0px 0px 0px;
+}
+
+.contactusp {
+    font-size: 20px !important;
+    margin: 100px 0px 0px 15% !important;
+}
+
+.contactus0 {
+    height: 400px;
+    /* background-color: #bcbec0; */
+    float: right;
+}
+
+.contactus0 h1 {
+    margin: 50px 0px 0px 15%;
+    color: white;
+    font-size: 50px;
+}
+
+.contactus0 ul {
+    margin: 25px 0px 0px 0px;
+}
+
+.contactus0 ul li {
+    list-style: none;
+    color: white;
+    margin: 10px 0px 0px 0px;
+}
+
+.contactus1 {
+    height: 400px;
+    /* background-color: #ffbd1a; */
+    float: right;
+}
+
+.contactus1 h1 {
+    margin: 55px 0px 0px 5%;
+    color: white;
+    font-size: 45px;
+}
+
+.contactus1 ul {
+    margin: 25px 0px 0px 0px;
+}
+
+.contactus1 ul li {
+    list-style: none;
+    color: white;
+    margin: 10px 0px 0px 0px;
+}
+
+.contactus2 {
+    height: 400px;
+    /* background-color: #ff831d; */
+    float: right;
+}
+
+.contactus2 h1 {
+    margin: 55px 0px 0px 10%;
+    color: white;
+    font-size: 45px;
+}
+
+.contactus2 h3 {
+    margin: 50px 0px 0px 15%;
+    color: white;
+    font-size: 35px;
+}
+
+.contactus2 ul {
+    margin: 25px 0px 0px 0px;
+}
+
+.contactus2 ul li {
+    list-style: none;
+    color: white;
+    margin: 10px 0px 0px 0px;
+}
+
+.contactus2 div {
+    font-size: 30px;
+    margin: 10px 0px 0px 15%;
+}

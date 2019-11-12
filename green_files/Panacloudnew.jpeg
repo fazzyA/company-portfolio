@@ -1,0 +1,662 @@
+<!DOCTYPE html>
+<!-- saved from url=(0039)https://thepanacloud.000webhostapp.com/ -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>
+    Panacloud
+</title>
+
+<link href="./Panacloudnew_files/companyportfolio.css" rel="stylesheet" type="text/css">
+
+<link rel="stylesheet" href="./Panacloudnew_files/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+<link rel="stylesheet" type="text/css" href="./Panacloudnew_files/all.css">
+
+<link rel="stylesheet" type="text/css" href="./Panacloudnew_files/all.min.css">
+
+<script src="./Panacloudnew_files/jquery-3.4.1.min.js.download">	
+
+</script>
+
+<link rel="icon" href="https://thepanacloud.000webhostapp.com/icon.png">
+
+</head>
+
+<body>
+
+<header class="col">
+
+	<ul>
+		<li>
+			<i class="fab fa-facebook-f i">			</i> 
+		</li>
+		<li>
+			<i class="fab fa-twitter i">			</i> 
+		</li>
+		<li>
+			<i class="fab fa-google-plus i">			</i> 
+		</li>
+		<li>
+			<i class="fab fa-linkedin i">			</i> 
+		</li>
+		<li>
+			<i class="fab fa-youtube i">			</i> 
+		</li>
+		<li class="liright">
+			<button>
+				CALL ME BACK
+			</button>
+		</li>
+		<li class="liright">
+			+92(317)011-3001            
+		</li>
+		<li class="liright phone">
+			<i class="fa fa-phone">			</i>
+		</li>
+		<li class="liright">
+			+92(304)386-6719            
+		</li>
+		<li class="liright phone">
+			<i class="fa fa-phone">			</i>
+		</li>
+	</ul>
+    
+</header>
+
+<nav>
+	<ul>
+		<li>
+			<img src="./Panacloudnew_files/Logo.png" width="10%">
+		</li>
+		<li class="navul">
+			CONTACT US
+		</li>
+		<li class="navul">
+			OUR SKILLS
+		</li>
+		<li class="navul">
+			REVIEWS
+		</li>
+		<li class="navul">
+			PROCESS
+		</li>
+		<li class="navul">
+			PORTFOLIO
+		</li>
+		<li class="navul">
+			SERVICES
+		</li>
+		<li class="navul">
+			ABOUT
+		</li>
+		<li class="navul">
+			WHY US
+		</li>
+	</ul>
+</nav>
+
+<img src="./Panacloudnew_files/whyus.png" width="100%">
+<div id="whyus" class="col-12">
+	
+	<div class="whyusbarright col-3">
+		
+	</div>
+	<h1 class="col-6">
+		WE ARE EXPERTS
+	</h1>
+	<div class="whyusbarleft col-3">
+		
+	</div>
+	<div class="whyustext">
+		Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat
+	</div>
+	<button>
+		Read More
+	</button>
+	
+</div>
+
+<div class="col-12" id="about">
+
+	<h1>
+		OUR 
+		<span style="color: #668e19;">
+			ADVANTAGES
+		</span>
+	</h1>
+	<p>
+		Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat
+	</p>
+	<div class="col-2 about">
+		<img src="./Panacloudnew_files/about5.png" width="100%">
+		<h6>
+			SUPPORT
+		</h6>
+		<span>
+			Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
+		</span>
+	</div>
+	<div class="col-2 about">
+		<img src="./Panacloudnew_files/about4.png" width="100%">
+		<h6>
+			HAPPY CLIENTS
+		</h6>
+		<span>
+			Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
+		</span>
+	</div>
+	<div class="col-2 about">
+		<img src="./Panacloudnew_files/about3.png" width="100%">
+		<h6>
+			EXPERIENCE
+		</h6>
+		<span>
+			Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
+		</span>
+	</div>
+	<div class="col-2 about">
+		<img src="./Panacloudnew_files/about2.png" width="100%">
+		<h6>
+			QUALITY
+		</h6>
+		<span>
+			Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
+		</span>
+	</div>
+	<div class="col-2 about">
+		<img src="./Panacloudnew_files/about1.png" width="100%">
+		<h6>
+			INNOVATION
+		</h6>
+		<span>
+			Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
+		</span>
+	</div>
+	
+</div>
+
+<img src="./Panacloudnew_files/aboutus.png" width="100%">
+<div class="col-12" id="aboutus">
+	
+	<h1>
+		<b>
+			ABOUT
+			<span style="color: #668e19;">
+				US
+			</span>
+		</b>
+	</h1>
+	<img src="./Panacloudnew_files/aboutus1.png" width="40%">
+	<p>
+		Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+	</p>
+	<p>
+		Lorem ipsum dolor sit amet, cons ectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
+	</p>
+	<p>
+		Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et
+	</p>
+	<button>
+		Read More
+	</button>
+	
+</div>
+
+<div class="col-12" id="services">
+
+	<h1>
+		<b>
+			OUR 
+			<span style="color: #668e19;">
+				SERVICES
+			</span>
+		</b>
+	</h1>
+	<p>
+		Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat
+	</p>
+	<div class="services col-3">
+		<img src="./Panacloudnew_files/services.png" width="100%">
+	</div>
+	<div class="services col-3">
+		<img src="./Panacloudnew_files/services.png" width="100%">
+	</div>
+	<div class="services col-3">
+		<img src="./Panacloudnew_files/services.png" width="100%">
+	</div>
+	<div class="services col-3">
+		<img src="./Panacloudnew_files/services.png" width="100%">
+	</div>
+	<div class="servicesh col-3">
+		<h5>
+			<b>
+				MARKETING
+			</b>
+		</h5>
+	</div>
+	<div class="servicesh0 col-3">
+		<h5>
+			<b>
+				BRANDING
+			</b>
+		</h5>
+	</div>
+	<div class="servicesh1 col-3">
+		<h5>
+			<b>
+				GRAPHICS DESIGN
+			</b>
+		</h5>
+	</div>
+	<div class="servicesh2 col-3">
+		<h5>
+			<b>
+				WEB DESIGN
+			</b>
+		</h5>
+	</div>
+	<div class="servicesp col-3">
+		<p>
+			Lorem ipsum dolor sit amet, consectetuer adipiscing elit
+			<br>
+			<br>
+			<a href="https://thepanacloud.000webhostapp.com/#">
+				<u>
+					Read More
+				</u>
+			</a>
+		</p>
+	</div>
+	<div class="servicesp0 col-3">
+		<p>
+			Lorem ipsum dolor sit amet, consectetuer adipiscing elit
+			<br>
+			<br>
+			<a href="https://thepanacloud.000webhostapp.com/#">
+				<u>
+					Read More
+				</u>
+			</a>
+		</p>
+	</div>
+	<div class="servicesp1 col-3">
+		<p>
+			Lorem ipsum dolor sit amet, consectetuer adipiscing elit
+			<br>
+			<br>
+			<a href="https://thepanacloud.000webhostapp.com/#">
+				<u>
+					Read More
+				</u>
+			</a>
+		</p>
+	</div>
+	<div class="servicesp2 col-3">
+		<p>
+			Lorem ipsum dolor sit amet, consectetuer adipiscing elit
+			<br>
+			<br>
+			<a href="https://thepanacloud.000webhostapp.com/#">
+				<u>
+					Read More
+				</u>
+			</a>
+		</p>
+	</div>
+	
+</div>
+
+<img src="./Panacloudnew_files/portfolio.png" width="100%">
+<div id="portfolio">
+
+	<h1>
+		<b>
+			OUR 
+			<span style="color: #668e19;">
+				PORTFOLIO
+			</span>
+		</b>
+	</h1>
+	<p class="portfoliop">
+		Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat
+	</p>
+	<div class="portfoliospan">
+		<span class="col-1">
+			WEB DESIGN
+		</span>
+		<span class="col-1">
+			GRAPHICS DESIGN
+		</span>
+		<span class="col-1">
+			BRANDING
+		</span>
+		<span class="col-1" style="color: #ff831d">
+			LOGO
+		</span>
+		<span class="col-1">
+			MARKETING
+		</span>
+		<span class="col-1">
+			ADVERTISEMENT
+		</span>
+	</div>
+
+</div>
+
+<div id="process">
+
+	<h1>
+		<b>
+			OUR 
+			<span style="color: #668e19;">
+				PROCESS
+			</span>
+		</b>
+	</h1>
+	<p>
+		Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat
+	</p>
+	<img src="./Panacloudnew_files/process.png" class="col-12">
+	<span class="col-2 processspan">
+		<h6>
+			DELIVER
+		</h6>
+		<p>
+			Lorem ipsum dolor sit amet
+		</p>
+	</span>
+	<span class="col-2 processspan">
+		<h6>
+			CORRECTING
+		</h6>
+		<p>
+			Lorem ipsum dolor sit amet
+		</p>
+	</span>
+	<span class="col-2 processspan">
+		<h6>
+			WORK PROCESS
+		</h6>
+		<p>
+			Lorem ipsum dolor sit amet
+		</p>
+	</span>
+	<span class="col-2 processspan">
+		<h6>
+			PLANNING
+		</h6>
+		<p>
+			Lorem ipsum dolor sit amet
+		</p>
+	</span>
+	<span class="col-2 processspan">
+		<h6>
+			CONSULTATION
+		</h6>
+		<p>
+			Lorem ipsum dolor sit amet
+		</p>
+	</span>
+	<span class="col-2 processspan">
+		<h6>
+			REQUEST CALL
+		</h6>
+		<p>
+			Lorem ipsum dolor sit amet
+		</p>
+	</span>
+
+</div>
+
+<div id="reviews">
+
+	<h1>
+		<b>
+			PEOPLE 
+			<span style="color: #668e19;">
+				ABOUT US
+			</span>
+		</b>
+	</h1>
+	<p>
+		Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat
+	</p>	
+	<img src="./Panacloudnew_files/reviews.png" width="80%" style="margin: 25px 0px 0px 10%">
+	
+</div>
+
+<div id="skills">
+
+	<h1>
+		<b>
+			OUR 
+			<span style="color: #668e19;">
+				SKILLS
+			</span>
+		</b>
+	</h1>
+	<p class="portfoliop">
+		Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat
+	</p>	
+	<img src="./Panacloudnew_files/skills.png" class="col-10" width="100%" style="margin: 50px 0px 0px 10%">
+	<br>
+	<b>
+		<span class="col-4 skillsspan">
+			WEB DESIGN
+		</span>
+		<span class="col-1 skillsspan">
+			BRANDING
+		</span>
+		<span class="col-4 skillsspan">
+			SEO &amp; ADS
+		</span>
+	</b>
+
+</div>
+
+<div id="project">
+	
+	<h1>
+		START YOUR NEW PROJECT
+	</h1>
+	<form>
+		<input type="text" placeholder="YOUR NAME" class="projectforminput">
+		<input type="text" placeholder="YOUR EMAIL" class="projectforminput">
+		<input type="text" placeholder="YOUR PHONE" class="projectforminput">
+		<button class="projectformbutton">
+			<b>
+				SEND REQUEST
+			</b>
+		</button>
+	</form>
+	<p>
+		Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat
+	</p>	
+
+</div>
+
+<div id="contact">
+
+	<h1>
+		<b>
+			OUR 
+			<span style="color: #668e19;">
+				CONTACT
+			</span>
+		</b>
+	</h1>
+	<p>
+		Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat
+	</p>
+	<div class="contactloc">
+		<i class="fa fa-map-marker-alt contacti">			</i>
+		<span class="contactspan">
+			Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt
+		</span>
+	</div>
+	<br>	
+	<ul>
+		<li>
+			<i class="fa fa-phone">			</i>
+			<span>
+				+92(304)386-6719
+			</span>
+		</li>
+		<li>
+			<i class="fa fa-phone">			</i>
+			<span>
+				+92(317)011-3001
+			</span>
+		</li>
+		<li>
+			<i class="fa fa-envelope">			</i>
+			<span>
+				info@website.com
+			</span>
+		</li>
+	</ul>
+	<img src="./Panacloudnew_files/contact.png" width="100%">
+</div>
+
+<div id="contactus">
+
+	<div class="col-3 contactus2">
+		<h1>
+			CONTACTS
+		</h1>
+		<ul>
+			<li>
+				<i class="fa fa-phone">			</i>
+				<span>
+					+92(304)386-6719
+				</span>
+			</li>
+			<li>
+				<i class="fa fa-phone">			</i>
+				<span>
+					+92(317)011-3001
+				</span>
+			</li>
+			<li>
+				<i class="fa fa-envelope">			</i>
+				<span>
+					info@website.com
+				</span>
+			</li>
+		</ul>
+		<h3>
+			FOllOW US
+		</h3>
+		<div>
+			<i class="fab fa-facebook-square">			</i>
+			<i class="fab fa-twitter-square">			</i>
+			<i class="fab fa-google-plus">			</i>
+			<i class="fab fa-linkedin">			</i>
+			<i class="fab fa-youtube-square">			</i>
+		</div>
+	</div>
+	<div class="col-3 contactus1">
+		<h1>
+			USEFUL LINKS
+		</h1>
+		<ul>
+			<li>
+				<u>
+					Lorem ipsum
+				</u>
+			</li>
+			<li>
+				<u>
+					Lorem
+				</u>
+			</li>
+			<li>
+				<u>
+					Lorem ipsum dolor
+				</u>
+			</li>
+			<li>
+				<u>
+					Lorem ipsum
+				</u>
+			</li>
+			<li>
+				<u>
+					Lorem
+				</u>
+			</li>
+			<li>
+				<u>
+					Lorem ipsum dolor
+				</u>
+			</li>
+			<li>
+				<u>
+					Lorem ipsum dolor
+				</u>
+			</li>
+		</ul>
+	</div>
+	<div class="col-3 contactus0">
+		<h1>
+			SERVICES
+		</h1>
+		<ul>
+			<li>
+				<u>
+					Lorem ipsum
+				</u>
+			</li>
+			<li>
+				<u>
+					Lorem
+				</u>
+			</li>
+			<li>
+				<u>
+					Lorem ipsum dolor
+				</u>
+			</li>
+			<li>
+				<u>
+					Lorem ipsum
+				</u>
+			</li>
+			<li>
+				<u>
+					Lorem
+				</u>
+			</li>
+			<li>
+				<u>
+					Lorem ipsum dolor
+				</u>
+			</li>
+			<li>
+				<u>
+					Lorem ipsum dolor
+				</u>
+			</li>
+		</ul>
+	</div>
+	<div class="col-3 contactus">
+		<img src="./Panacloudnew_files/logo-color.png" width="80%">
+		<p>
+			Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et
+		</p>
+		<p class="contactusp">
+			@Panacloud 2019
+		</p>
+	</div>
+
+</div>
+
+<div style="text-align: right;position: fixed;z-index:9999999;bottom: 0;width: auto;right: 1%;cursor: pointer;line-height: 0;display:block !important;"><a title="Hosted on free web hosting 000webhost.com. Host your own website for FREE." target="_blank" href="https://www.000webhost.com/?utm_source=000webhostapp&amp;utm_campaign=000_logo&amp;utm_medium=website&amp;utm_content=footer_img"><img src="./Panacloudnew_files/footer-powered-by-000webhost-white2.webp" alt="www.000webhost.com"></a></div><script>function getCookie(t){for(var e=t+"=",n=decodeURIComponent(document.cookie).split(";"),o=0;o<n.length;o++){for(var i=n[o];" "==i.charAt(0);)i=i.substring(1);if(0==i.indexOf(e))return i.substring(e.length,i.length)}return""}getCookie("hostinger")&&(document.cookie="hostinger=;expires=Thu, 01 Jan 1970 00:00:01 GMT;",location.reload());var wordpressAdminBody=document.getElementsByClassName("wp-admin")[0],notification=document.getElementsByClassName("notice notice-success is-dismissible"),hostingerLogo=document.getElementsByClassName("hlogo"),mainContent=document.getElementsByClassName("notice_content")[0];if(null!=wordpressAdminBody&&notification.length>0&&null!=mainContent){var googleFont=document.createElement("link");googleFontHref=document.createAttribute("href"),googleFontRel=document.createAttribute("rel"),googleFontHref.value="https://fonts.googleapis.com/css?family=Roboto:300,400,600",googleFontRel.value="stylesheet",googleFont.setAttributeNode(googleFontHref),googleFont.setAttributeNode(googleFontRel);var css="@media only screen and (max-width: 576px) {#main_content {max-width: 320px !important;} #main_content h1 {font-size: 30px !important;} #main_content h2 {font-size: 40px !important; margin: 20px 0 !important;} #main_content p {font-size: 14px !important;} #main_content .content-wrapper {text-align: center !important;}} @media only screen and (max-width: 781px) {#main_content {margin: auto; justify-content: center; max-width: 445px;}} @media only screen and (max-width: 1325px) {.web-hosting-90-off-image-wrapper {position: absolute; max-width: 95% !important;} .notice_content {justify-content: center;} .web-hosting-90-off-image {opacity: 0.3;}} @media only screen and (min-width: 769px) {.notice_content {justify-content: space-between;} #main_content {margin-left: 5%; max-width: 445px;} .web-hosting-90-off-image-wrapper {position: absolute; right: 0; display: flex; padding: 0 5%}} .web-hosting-90-off-image {max-width: 90%;} .content-wrapper {z-index: 5} .notice_content {display: flex; align-items: center;} * {-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;} .upgrade_button_red_sale{box-shadow: 0 2px 4px 0 rgba(255, 69, 70, 0.2); max-width: 350px; border: 0; border-radius: 3px; background-color: #ff4546 !important; padding: 15px 55px !important;  margin-bottom: 48px; font-family: 'Roboto', sans-serif; font-size: 16px; font-weight: 600; color: #ffffff;} .upgrade_button_red_sale:hover{color: #ffffff !important; background: #d10303 !important;}",style=document.createElement("style"),sheet=window.document.styleSheets[0];style.styleSheet?style.styleSheet.cssText=css:style.appendChild(document.createTextNode(css)),document.getElementsByTagName("head")[0].appendChild(style),document.getElementsByTagName("head")[0].appendChild(googleFont);var button=document.getElementsByClassName("upgrade_button_red")[0],link=button.parentElement;link.setAttribute("href","https://www.hostinger.com/hosting-starter-offer?utm_source=000webhost&utm_medium=panel&utm_campaign=000-wp"),link.innerHTML='<button class="upgrade_button_red_sale">TRANSFER NOW</button>',(notification=notification[0]).setAttribute("style","padding-bottom: 0; padding-top: 5px; background-color: #313134; background-size: cover; background-repeat: no-repeat; color: #ffffff; border-color: #ff123a; border-width: 8px;"),notification.className="notice notice-error is-dismissible";var mainContentHolder=document.getElementById("main_content");mainContentHolder.setAttribute("style","padding: 0;"),hostingerLogo[0].remove();var h1Tag=notification.getElementsByTagName("H1")[0];h1Tag.className="000-h1",h1Tag.innerHTML="Black Friday Sale",h1Tag.setAttribute("style",'color: white;  margin-top: 48px; font-family: "Roboto", sans-serif; font-size: 48px; font-weight: 600;');var h2Tag=document.createElement("H2");h2Tag.innerHTML="Get 90% Off!",h2Tag.setAttribute("style",'color: white; margin: 45px 0; font-family: "Roboto", sans-serif; font-size: 80px; font-weight: 600;'),h1Tag.parentNode.insertBefore(h2Tag,h1Tag.nextSibling);var paragraph=notification.getElementsByTagName("p")[0];paragraph.innerHTML="Don’t miss the opportunity to enjoy up to <strong>4x WordPress Speed, Free SSL and all premium features</strong> available for a fraction of the price!",paragraph.setAttribute("style",'font-family: "Roboto", sans-serif; font-size: 18px; font-weight: 300;');var list=notification.getElementsByTagName("UL")[0];list.remove();var org_html=mainContent.innerHTML,new_html='<div class="content-wrapper">'+mainContent.innerHTML+'</div><div class="web-hosting-90-off-image-wrapper"><img class="web-hosting-90-off-image" src="https://cdn.000webhost.com/000webhost/promotions/black-friday-2019-wordpress.png"></div>';mainContent.innerHTML=new_html;var saleImage=mainContent.getElementsByClassName("web-hosting-90-off-image")[0]}</script>
+
+<script src="./Panacloudnew_files/jquery-3.3.1.slim.min.js.download" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+
+<script src="./Panacloudnew_files/popper.min.js.download" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+
+<script src="./Panacloudnew_files/bootstrap.min.js.download" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+</body></html>
