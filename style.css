@@ -1,4 +1,6 @@
-.first{height: 30px;
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}.first{height: 30px;
     padding: 5px;
    background:rgb(14, 13, 13);
 }
@@ -31,7 +33,7 @@ background: rgb(41, 40, 40);
       background: white;
 }
 .rit_1{
-margin-left: 620px;
+margin-left: 475px;
 
 }
 .second{
@@ -50,11 +52,11 @@ color:white;
 .fourth{
  float: right; 
 text-align: center;
-margin-right: 10px;
+margin-right: 5px;
 width: 80px;  
 height: 30px; 
 font-size: 1em;
-font-weight: bolder;
+font-weight: bold;
 background: rgb(129, 235, 23);
 box-shadow: -2px -2px 2px rgb(13, 145, 19);
 
@@ -97,35 +99,31 @@ color: white;
    /* Green div starts here !! */
 .box{
 border:5px solid yellowgreen;
-width: 1330px;
-height: 500px;
+width: 98%;
+height: 550px;
 background-image: url("green_files/whyus.png");
 background-repeat: no-repeat;
 background-size: cover;   
 margin-top: 8px;      
 }
-.box_1{
-border:2px solid rgb(171, 226, 88);
-width:400px;
-height: 60px;
-margin-top: 140px;
-background: rgb(171, 226, 88);
-box-shadow: 3px 3px 5px greenyellow;
+.greentable{
+    margin-top: 140px;
+    padding: 0px;
 }
+.box_1{
+    
+    border:2px solid rgb(171, 226, 88);
+    width: 30%;
+    height: 60px;
+    margin-top: 140px;
+    background: rgb(171, 226, 88);
+    box-shadow: 3px 3px 5px greenyellow;
+    }
+    
 .heading-p {
 text-align: center;
 color: white;
 margin: 40px;
-}
-.box_2{
-/* float: right; */
-border:2px solid  rgb(171, 226, 88) ;
-width:400px;
-height: 60px;
-margin-left: 930px;
-margin-top: -270px;
-background:  rgb(171, 226, 88);
-box-shadow: -3px 3px 5px greenyellow;
 }
 .heading{
 text-align: center;
@@ -138,7 +136,7 @@ color:ivory;
 .read{
 text-align: center;
 background: orange;
-box-shadow: 3px 3px rgb(153, 44, 44);
+box-shadow: 0px 4px rgb(153, 44, 44);
 font-weight: bolder;
 margin-left: 600px;
 margin-top: 60px;
@@ -149,49 +147,20 @@ border-radius: 5px;
 
     /* here is a radio button code!!!! */
 .dots{
-margin-left: 605px;
-margin-bottom: -10px;
+    padding-left: 573px;
+    margin-bottom: 2px;
+    margin-top: 30px;
 }
-.radio{
-display: inline-block;
-vertical-align: middle;
-cursor: pointer;
-position: relative;
-margin-top: 230px;
-padding-left: 30px;
-}
-.radio + .radio{
-margin-left: 10px ;
-}
-.radio input[type="radio"]{
-display: none;
-}
-.radio span{
-height: 20px;
-width: 20px;
-border-radius: 50%;
-border: 3px solid white;
-display: block;
-position: absolute;
-left: 0px;
-top: 7px;
-}
-.radio span::after{
-content: "";
-height:8px;
-width: 8px;
-background: white;
-display: block;
-position: absolute;
-left: 50%;
-top:50%;
-transform: translate(-50%, -50%) scale(0);
-border-radius: 50%;
-transition: 300ms ease-in-out 0s;
-}
-.radio input[type="radio"]:hover ~ span::after{
-transform: translate(-50%, -50%) scale(1.5);
-}
+    
+    input[type="radio"]{
+        /* display: none; */
+        width: 50px;
+        height: 20px;
+        padding-left: 3px ;
+        color: white;
+        
+    }
+        
    /* Radio button and green div ends here !!! */
 
 
@@ -200,7 +169,7 @@ transform: translate(-50%, -50%) scale(1.5);
 .logos h1{
  font-size: 2.75em;
  font-weight: bolder;
- text-shadow: 3px 3px 3px yellowgreen, 5px 5px 5px yellow;
+ text-shadow: 2px 2px 2px yellowgreen, 5px 5px 5px yellow;
  text-align: center;
  margin-top: 15px;
  margin-bottom: 20px;
@@ -208,8 +177,6 @@ transform: translate(-50%, -50%) scale(1.5);
 .logos p{
 max-width: 500px;
     min-width: 200px;
-    max-height: 150px;
-    min-height: 100px;
     margin-left: 420px;
     text-align: justify;
     margin-bottom: 60px;
@@ -225,8 +192,8 @@ max-width: 500px;
 .innovation img{
 height: 200px;
  width: 200px;
- padding: 10px;
- margin-left: 30px;
+ padding: 8px;
+ margin-left: 25px;
  margin-right: -15px;
 
 }
@@ -234,23 +201,23 @@ height: 200px;
 text-shadow:  3px 3px 3px yellowgreen, 5px 5px 5px yellow; 
  font-weight: bolder;
  font-size: 1.5em;
- margin-left:  60px;
+ margin-left:  50px;
  margin-top: 3px;
  margin-bottom: -5px;
 
 }
 .innovation p{
  text-align: justify;
- margin-left: 30px;
+ margin-left: 20px;
  margin-top: -3px;
  min-width: 200px;
  max-width: 100px;
- min-height: 200px;
- max-height: 150px;
+ /* min-height: 200px;
+ max-height: 150px; */
  overflow: hidden;
 }
 .innovation p:hover{
-   overflow: auto;
+   overflow: hidden;
 }
 .quality{
  float: left;
@@ -622,17 +589,26 @@ mix-blend-mode: url("green_files/aboutus1.png");
     font-size: 2.75em;
  font-weight: bolder;
  color: rgb(169, 223, 63);
- text-shadow: 4px 4px 4px white;
+ /* text-shadow: 4px 4px 4px white; */
  text-align: center;
  margin-top: 15px;
  margin-bottom: 10px;
+ text-transform: uppercase;
+  }
+  span.whiteheading{
+ font-weight: bolder;
+ color: white;
+ /* text-shadow: 4px 4px 4px white; */
+ text-align: center;
+ margin-top: 15px;
+ margin-bottom: 10px;
+
   }
   .portfolio p{
     color: whitesmoke;
     max-width: 500px;
     min-width: 200px;
-    max-height: 150px;
-    min-height: 100px;
+    height: auto;
     margin-left: 420px;
     text-align: justify;
     overflow: hidden;
@@ -652,11 +628,12 @@ mix-blend-mode: url("green_files/aboutus1.png");
     padding: 10px;
     margin: 10px;
     font-size: 1.5em;
-    font-weight: bolder;
-    color:black;
+    font-weight: normal;
+    color:white;
+    /* 
     text-shadow: 4px 4px 4px white;
     border-radius: 5px;
-    background:rgb(245, 170, 207);
+    background:rgb(245, 170, 207); */
 }
 .portfolio_pics{
     width: 100%;
@@ -672,7 +649,7 @@ mix-blend-mode: url("green_files/aboutus1.png");
 }
 .portfolio_pics img{
     width:220px;
-    height: 270px;
+    height: 230px;
     /* margin-top: 20px; */
 }
              /* Our port folio ends here!!! */
@@ -711,8 +688,9 @@ mix-blend-mode: url("green_files/aboutus1.png");
     margin-top: 10px;
     border-radius: 10px;
     margin-bottom: 30px;
-    margin-left: 10px;
+    margin-left: 25px;
     float: left;
+    padding: 15px;
 }
 .request h4{
     text-align: center;
@@ -867,126 +845,72 @@ mix-blend-mode: url("green_files/aboutus1.png");
     overflow: auto;
 
                 }                
-                /*  Our process div ends here */
+                /*  Our process div ends here 
+                
+                
+                people starts
+                
+          /* People about us starts here */
 
+/*--------------- ---- about us------------ */
 
-                /* People about us starts here */
- .people{
-     width: 100%;
-     height: 230px;
-     background: rgb(238, 233, 233);
-     clear: both;
- }
- .people-1 h1{
-    font-size: 2.75em;
- font-weight: bolder;
- text-shadow: 3px 3px 3px yellowgreen, 5px 5px 5px yellow;
- padding-top: 30px;
- text-align: center;
-
-  }
-  .people-1 p{
-    max-width: 500px;
-    min-width: 200px;
-    max-height: 150px;
-    min-height: 100px;
-    margin-left: 420px;
-    text-align: justify;
-    overflow: hidden; 
+.people-about-us{
+    width: 100%;
+    height:auto;   
+    /* font-family: Arial, Helvetica, sans-serif; */
+    background-color: #c7c7c745;
+    font-weight: bold;
 }
-.people-1 p:hover{
-    overflow: auto;
-  }
-
-
-.p-1{
+#pba-h1{
     text-align: center;
-    display:inline-block;
-    width: 650px;
-    height: 300px;           
-    margin-left: 10px;
-    margin-right: -10px;
-    background: rgb(223, 221, 221);
-    border-right: 3px solid grey;
-    border-bottom: 3px solid black;  
+    padding-top: 15px;
+    letter-spacing: 4px;
 }
-.p-1 img{
-    margin-left: 20px;
-    width: 150px;
-    height: 120px;
+.people-about-us span{
+    color:#8DC63F;
 }
-.p-1 h2{
-    text-shadow: 3px 3px 3px yellow;
-    font-weight: bolder;
+#pba-p{
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    padding-top:10px;
+}
+.container{
+    width: 100%;
+    height: auto;
+    /* margin:70px 0px 60px 25px; */
+    display: grid;
+    /* padding-top:70px; */
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 20vh 20vh; 
+
+}
+.people-about-us-box{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 100px;
+    padding-top:14px;
+    padding-left:20px;
+
+}
+.people-about-us-box img{
+    width: 120px;
+    height: 100px;
+    float: left;
+    padding-left:25px;
+
+}
+.b{
+    border-bottom: 1px solid black;
+}
+.l{
+    border-left: 1px solid black;
 }
 
-.p-2{
-    width: 650px;
-    height: 300px;
-    text-align: center;
-    display:inline-block;  
-    border-left: 3px solid grey;
-    border-bottom: 3px solid black;
-    background: rgb(151, 148, 148);  
-} 
-.p-2 img{
-    margin-left: 20px;
-    width: 150px;
-    height: 120px;
-}
-.p-2 h2{
-    text-shadow: 3px 3px 3px yellow;
-    font-weight: bolder;
-}
 
-.p-3{
-    text-align: center;
-    display:inline-block;
-    width: 650px;
-    height: 300px;
-    margin-left: 10px;
-    margin-right: -10px;
-    padding-top: 30px;
-    border-right: 3px solid grey; 
-    border-top: 3px solid black; 
-    background: rgb(151, 148, 148);        
-}
-.p-3 img{
-    margin-left: 20px;
-    width: 150px;
-    height: 120px;
-}
-.p-3 h2{
-    text-shadow: 3px 3px 3px yellow;
-    font-weight: bolder;
-}
-.p-3 p{
-    text-align: justify;
-}
-.p-4{
-    width: 650px;
-    height: 300px;
-    text-align: center;
-    display:inline-block;
-    padding-top: 30px;
-    background: rgb(223, 221, 221); 
-    border-left: 3px solid grey; 
-    border-top: 3px solid black;      
-}
-.p-4 img{
-    margin-left: 20px;
-    width: 150px;
-    height: 120px;
-}
-.p-4 h2{
-    text-shadow: 3px 3px 3px yellow;
-    font-weight: bolder;
-}
-.p-4 p{
-    text-align: justify;
-}
+
         /* People about us ends here */
-                        /* Our skills starts here */
+       /* Our skills starts here */
+
 .our-skills{
     width: 100%;
     height: 190px;
@@ -1027,17 +951,18 @@ font-size: 2.75em;
 }
 .start-new-project h1{
  font-size: 2.75em;
- font-weight: bolder;
- text-shadow: 3px 3px 3px yellowgreen, 5px 5px 5px yellow;
+ font-weight: bold;
+ /* text-shadow: 3px 3px 3px yellowgreen, 5px 5px 5px yellow; */
  text-align: center;
  margin-top: 15px;
  margin-bottom: 20px;
+ color: white;
 }
 .start-new-project input{
         margin-left: 200px;
         margin-right: -140px;
         padding: 10px;
-        border:2px solid black;
+        border:2px solid rgb(209, 208, 208);
         border-radius: 6px;
 }
 .start-new-project button{
@@ -1057,6 +982,7 @@ padding: 10px;
     margin-left: 400px;
     text-align: justify;
     overflow: hidden; 
+    color: white;
 }
 .start-new-project p:hover{
     overflow: auto;
@@ -1068,42 +994,42 @@ padding: 10px;
 
 .our-contacts{
     width:100%;
-    height: 350px;
+    height: auto;
 }
 .our-contacts h1{
  font-size: 2.75em;
- font-weight: bolder;
+ font-weight: normal;
  text-shadow: 3px 3px 3px yellowgreen, 5px 5px 5px yellow;
  text-align: center;
- margin-top: 15px;
+ margin-top: 10px;
  margin-bottom: 20px;
 }
 .our-contacts p{
     max-width: 500px;
     min-width: 200px;
-    max-height: 150px;
-    min-height: 100px;
+    /* max-height: 150px;
+    min-height: 100px; */
     margin-left: 400px;
     margin-top: -30px;
-    font-weight: bolder;
+    font-weight: normal;
     text-align: justify;
     overflow: hidden; 
 }
 .our-contacts p:hover{
-    overflow: auto;
+    overflow: hidden;
   }
 
 .our-contacts span{
     margin-left: 330px;
 }
 .our-contacts span .fas{
-    margin-top: 60px;
-    font-weight: bolder;
+    margin-top: 20px;
+    font-weight: normal;
 }
 .our-contacts ul li{
     display: inline-block;
     margin-left: 250px;
-    font-weight: bolder;
+    font-weight: normal;
     margin-right: -120px;
 }
                        /* Our contacts ends here!!!! */
